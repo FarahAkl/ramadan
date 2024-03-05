@@ -1,0 +1,51 @@
+/*form css*/
+input
+{
+    border-radius: 8px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 8px 8px;
+    display: block;
+    margin: auto;
+
+} 
+input[type="submit"] 
+{
+    background-color: rgb(229, 243, 251);
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+fieldset
+{
+    border-radius: 30px;
+    background-color: rgb(252, 243, 250); 
+    height: 300px;
+    width: 250px;
+    border-color: blue;
+    display: block;
+    margin: auto;
+    padding: 30px;
+}
+
+label
+{
+    font-size: x-large;
+    
+}
+legend
+{
+    margin: auto; 
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: unset;
+} 
+body
+{
+    background-image: url(https://funci.org/wp-content/uploads/2021/04/Eid_Moon_sighting_Eid_in_India_Date-Ramadan-e1619521624478.jpg);
+    background-size: cover;
+}
+form
+{
+    padding: 100px;
+}

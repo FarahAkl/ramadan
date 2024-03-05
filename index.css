@@ -1,0 +1,47 @@
+/*main page css*/
+header 
+{
+    background-color: rgb(226, 225, 225);
+    position: fixed;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 10px 50px;
+
+}
+a
+{
+    text-decoration: none;
+    color: rgb(35, 35, 157);
+    font-size:x-large;
+    padding-left: 40px;
+    font-family:monospace;
+}
+body
+{
+    background-image: url(https://i.ytimg.com/vi/AmUXkIvu-OY/maxresdefault.jpg);
+    background-size: cover;
+    background-position: center;
+}
+div
+{
+    padding: 200px 300px;
+}
+h1
+{
+    font-size: 60px;
+}
+h2
+{
+    font-size: 40px;
+    padding: 0px 100px;
+}
+h3
+{
+    font-size: xx-large;
+}
+h4
+{
+    font-size: larger;
+    font-family:cursive;
+}
